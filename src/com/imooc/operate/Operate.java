@@ -3,12 +3,12 @@ package com.imooc.operate;
 public class Operate {
 
 	public static void main(String[] args) {
-		// ¼Ó·¨ÔËËã·û
+		// JavaåŠ æ³•è¿ç®—ç¬¦
 		int result;
 		int num1 = 10, num2 = 5;
 		result = num1 + num2;
 		
-		System.out.println("¼Ó·¨¼ÆËãresult=" + result);
+		System.out.println("JavaåŠ æ³•result=" + result);
 		
 	}
 

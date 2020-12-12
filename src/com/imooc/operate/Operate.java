@@ -9,7 +9,7 @@ public class Operate {
 		result = num1 + num2;
 		
 		System.out.println("Java加法result=" + result);
-		
+		//测试git
 	}
 
 }
